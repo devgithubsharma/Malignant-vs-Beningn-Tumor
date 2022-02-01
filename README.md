@@ -8,13 +8,13 @@ This Notebook consists Data_Wrangling + EDA + Model_Building
 **2- Data Wrangling**
 
    - Data Assessment
-   - 
+  
    - Data Cleaning
-   - 
+   
 **3- Exploratory Data Analysis**
 
    - Univariate Analysis
-   - 
+   
    - Bivariate Analysis
-   - 
+   
 **4- Model Building**
